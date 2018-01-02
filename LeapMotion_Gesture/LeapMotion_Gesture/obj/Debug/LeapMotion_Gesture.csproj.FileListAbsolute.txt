@@ -1,0 +1,9 @@
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\bin\Debug\LeapMotion_Gesture.exe.config
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\bin\Debug\LeapMotion_Gesture.exe
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\bin\Debug\LeapMotion_Gesture.pdb
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\obj\Debug\LeapMotion_Gesture.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\obj\Debug\LeapMotion_Gesture.Properties.Resources.resources
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\obj\Debug\LeapMotion_Gesture.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\obj\Debug\LeapMotion_Gesture.exe
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\obj\Debug\LeapMotion_Gesture.pdb
+C:\Users\Acer\Desktop\LeapMotion_Gesture\LeapMotion_Gesture\obj\Debug\LeapMotion_Gesture.Form1.resources
